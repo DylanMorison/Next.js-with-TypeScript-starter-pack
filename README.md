@@ -1,4 +1,4 @@
-# Next.js with TypeScript starter pack
+# Next.js with TypeScript and Material UI starter pack
 
 Install it and run:
 
